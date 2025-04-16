@@ -26,7 +26,6 @@ This repository documents my daily progress, learnings, and hands-on projects as
 - 🔹 `range()`, `break`, `continue`
 - 🔹 Defining functions with `def`
 - 🔹 Parameters, return values
-- 🔹 Looping through strings, lists, and dictionaries
 
 ---
 
