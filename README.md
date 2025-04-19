@@ -41,7 +41,7 @@ This repository documents my daily progress, learnings, and hands-on projects as
 - 🔹 File Handling
 - 🔹 List Comprehension
 - 🔹 Exception Handling
-- 
+
 ---
 
 ## 📌 Why This Journey?
