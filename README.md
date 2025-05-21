@@ -1,4 +1,4 @@
-# 💯 100 Days of Machine Learning
+# 💯 10 Days of Machine Learning
 
 Welcome to my journey through **10 Days of Machine Learning**!  
 This repository documents my daily progress, learnings, and hands-on projects as I go from beginner to advanced in ML.
