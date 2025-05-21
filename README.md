@@ -1,6 +1,6 @@
 # 💯 100 Days of Machine Learning
 
-Welcome to my journey through **100 Days of Machine Learning**!  
+Welcome to my journey through **10 Days of Machine Learning**!  
 This repository documents my daily progress, learnings, and hands-on projects as I go from beginner to advanced in ML.
 
 ---
@@ -56,5 +56,5 @@ I’m committed to mastering Machine Learning from the ground up—this series h
 ---
 
 ## 🏷️ Hashtags
-`#100DaysOfMachineLearning #Python #DataScience #MLJourney #BeginnerToAdvanced #LearningInPublic`
+`#10DaysOfMachineLearning #Python #DataScience #MLJourney #BeginnerToAdvanced #LearningInPublic`
 
